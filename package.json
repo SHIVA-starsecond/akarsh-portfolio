@@ -1,0 +1,27 @@
+{
+  "name": "portfolio.siddhu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13siddhu/portfolio.siddhu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13siddhu/portfolio.siddhu/issues"
+  },
+  "homepage": "https://github.com/13siddhu/portfolio.siddhu#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "nodemailer": "^6.10.0"
+  }
+}
